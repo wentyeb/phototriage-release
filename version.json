@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.7.0",
-  "apkUrl": "https://api.github.com/repos/wentyeb/phototriage-release/releases/assets/781737360",
-  "notes": "新增远程升级：应用内检查更新、带进度下载、一键安装；整理页下一张常驻缩略图（点开全屏对比）；幻影相册合并修复；多处滑动与视频播放修复",
+  "versionCode": 4,
+  "versionName": "0.7.1",
+  "apkUrl": "https://api.github.com/repos/wentyeb/phototriage-release/releases/assets/781769230",
+  "notes": "「我的」页新增版本号与更新记录；验证远程升级链路",
   "force": false
 }
